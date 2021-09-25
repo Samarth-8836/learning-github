@@ -1,2 +1,0 @@
-# Hello
-This is a brand new file
